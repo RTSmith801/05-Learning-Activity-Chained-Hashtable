@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "05_Learning_Activity_Chained_Hashtable",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "05_Learning_Activity_Chained_Hashtable::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_Learning_Activity_Chained_Hashtable-Debug-53ac8d5b29fa20b9141b.json",
+					"name" : "05_Learning_Activity_Chained_Hashtable",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "Z:/Desktop/Weber State Univesity/Classes/CS 2420/Assignments/05 Learning Activity Chained Hashtable/cmake-build-debug",
+		"source" : "Z:/Desktop/Weber State Univesity/Classes/CS 2420/Assignments/05 Learning Activity Chained Hashtable"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
