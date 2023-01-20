@@ -1,12 +1,3 @@
-/**
- * @file: ChainedHashtableTester.cpp
- * @assignment_name: 05 Learning Activity: Chained Hashtable
- * @author: Rick Smith (rickysmith@mail.weber.edu)
- * @date: 01/20/2023
- * @brief: Using pointers to create a chained hash table
- *
- */
-
 
 #include "ChainedHashtable.h"
 #include <iostream>
@@ -39,8 +30,9 @@ bool checkTest(std::string testName, Type whatItShouldBe, Type whatItIs) {
         return true;
     }
     else {
-        std::cout << "****** Failed test " << testName << " ****** " << std::endl << "
-        Output was " << whatItIs << std::endl << "     Output should have been " <<
+        std::cout << "****** Failed test " << testName << " ****** " << std::endl
+        << "Output was " << whatItIs << std::endl
+        << "     Output should have been " <<
         whatItShouldBe << std::endl;
         return false;
     }
